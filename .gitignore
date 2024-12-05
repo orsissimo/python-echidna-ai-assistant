@@ -1,0 +1,6 @@
+__pycache__
+prompts
+sandbox
+venv
+.env
+.DS_Store
